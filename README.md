@@ -28,7 +28,7 @@ You should now be able to run this reop with the grunt command:
 
 You should now be all set!
 
-## Problem 1
+## Problem 1 (Week 1)
 
 [Culling Numbers](http://www.reddit.com/r/dailyprogrammer/comments/30ubcl/20150330_challenge_208_easy_culling_numbers/)
 
@@ -36,6 +36,7 @@ You should now be all set!
 
 [Wiki page](https://github.com/Tokyo-Buffalo/lets-practice-js/wiki/Problem-1-(Week-1))
 
+## Problem 2 (Week 2)
 
-
+[Counting the Days until...](http://www.reddit.com/r/dailyprogrammer/comments/2vc5xq/20150209_challenge_201_easy_counting_the_days/)
 
