@@ -34,9 +34,6 @@ module.exports = function(grunt) {
       gruntfile: {
         files: '<%= jshint.gruntfile.src %>',
         tasks: ['jshint:gruntfile'],
-        options: {
-          livereload: true,
-        }
       },
       lib_test: {
         files: '<%= jshint.lib_test.src %>',

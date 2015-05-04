@@ -8,5 +8,5 @@ removeDup(array);
         red.push( array[i] );
       }
     }
-    console.log(red);
+    console.dir(red);
   }
