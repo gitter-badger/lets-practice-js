@@ -28,12 +28,14 @@ You should now be able to run this reop with the grunt command:
 
 You should now be all set!
 
-
-
 ## Problem 1
 
 [Culling Numbers](http://www.reddit.com/r/dailyprogrammer/comments/30ubcl/20150330_challenge_208_easy_culling_numbers/)
 
-#####Solved!
+### Solution
+
+[Wiki page](https://github.com/Tokyo-Buffalo/lets-practice-js/wiki/Problem-1-(Week-1))
+
+
 
 
