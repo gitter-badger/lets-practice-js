@@ -1,5 +1,5 @@
 # Let's Practice JS!
-![Javscript](http://johnshipp.com/wp-content/uploads/2013/10/js.jpg)
+
 Week by week, we take a look at a different problem and attempt to solve it.
 
 Some questions were gathered from the [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer/comments/30ubcl/20150330_challenge_208_easy_culling_numbers/) subreddit.
