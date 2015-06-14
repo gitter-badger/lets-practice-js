@@ -10,6 +10,7 @@ You can find each problem and its status and/or the solution below.
 ###Tokyo Buffalo Members:
 - [Kevin O'Neil](https://github.com/oneilkevin)
 - [Larry Buffaloboy](https://github.com/tronicdata)
+- [Sam Morrison](https://github.com/scmorrison)
 
 ## Setup
 
