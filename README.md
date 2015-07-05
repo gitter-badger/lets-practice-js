@@ -1,5 +1,7 @@
 # Let's Practice JS!
 
+[![Join the chat at https://gitter.im/Tokyo-Buffalo/lets-practice-js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Tokyo-Buffalo/lets-practice-js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Week by week, we take a look at a different problem and attempt to solve it.
 
 Some questions were gathered from the [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer/comments/30ubcl/20150330_challenge_208_easy_culling_numbers/) subreddit.
